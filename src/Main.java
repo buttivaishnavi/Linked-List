@@ -16,5 +16,8 @@ public class Main {
 
         System.out.println("Linked List after deleting 20:");
         list.display();
+
+        
+
     }
 }
