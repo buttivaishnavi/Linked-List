@@ -15,6 +15,7 @@ public class Main {
         list.delete(20);
 
         System.out.println("Linked List after deleting 20:");
+        System.out.println("give the linkedlist");
         list.display();
         
         System.out.println("Size of Linked List: " + list.size());
