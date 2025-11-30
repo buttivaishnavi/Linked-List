@@ -8,7 +8,7 @@ public class Main {
         list.insert(30);
         list.insert(40);
 
-        System.out.println("Linked List after insertion:");
+        System.out.println("Linked List:");
         list.display();
 
         // Delete element
